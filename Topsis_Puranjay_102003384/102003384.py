@@ -97,5 +97,8 @@ class Topsis:
         matrix.columns = newColNames
         matrix.to_csv(self.resultFileName)
         print(tabulate(matrix, headers = matrix.columns))
-
-_init_ = Topsis(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
+if __name__ == "__main__":
+    if len(sys.argv) != 5:
+        print("ERROR!!Invalid number of arguments.")
+        exit()
+    Topsis(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
