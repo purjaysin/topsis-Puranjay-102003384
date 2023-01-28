@@ -1,0 +1,2 @@
+[console_scripts]
+Topsis_Puranjay_102003384 = Topsis_Puranjay_102003384.__main__:main

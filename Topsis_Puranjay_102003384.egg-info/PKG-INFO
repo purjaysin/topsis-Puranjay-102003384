@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: Topsis-Puranjay-102003384
+Version: 0.3.0
+Summary: Python package to implement TOPSIS.
+Home-page: https://github.com/purjaysin/topsis-Puranjay-102003384
+Author: Puranjay Singh
+Author-email: psingh12_be20@thapar.edu
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+License-File: License.txt
+
+Python package to implement TOPSIS.
+
